@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.3](https://github.com/darylwalsh/react-k8s-emotion-ts-cypress/compare/v0.1.2...v0.1.3) (2019-10-23)
+
+
+### Bug Fixes
+
+* **add github repo to pkg.json:** add github repo link to pkg.json ([86c0b6f](https://github.com/darylwalsh/react-k8s-emotion-ts-cypress/commit/86c0b6f702e72f69f8bc4a663f815217a37d5c2e))
+
 ### [0.1.2](https://github.com/darylwalsh/react-k8s-emotion-ts-cypress/compare/v0.1.1...v0.1.2) (2019-10-23)
 
 
