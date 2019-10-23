@@ -2,6 +2,7 @@
   "name": "react-k8s-emotion-cypress",
   "version": "0.1.2",
   "private": true,
+  "repository": "git@github.com:darylwalsh/react-k8s-emotion-ts-cypress.git",
   "dependencies": {
     "@babel/core": "7.4.3",
     "@emotion/babel-preset-css-prop": "^10.0.17",
